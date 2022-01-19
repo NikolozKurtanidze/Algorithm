@@ -1,2 +1,2 @@
 # Algorithm
-Shunking yard algorithm implementation for calculators.
+Shunting-yard algorithm implementation for calculators.
